@@ -1,5 +1,4 @@
 
-
 class CentroDeDistribucion {
 	var property ciudad
 	const vendedoresConQueTrabaja = #{}

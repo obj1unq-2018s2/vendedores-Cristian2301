@@ -1,6 +1,7 @@
 import certificaciones.*
 import ciudades.*
 
+
 class Vendedor {
 
 	method agregar(certificacion){
