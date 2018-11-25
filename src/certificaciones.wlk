@@ -3,3 +3,4 @@ class Certificacion {
 	const property esSobreProductos = false
 	
 }
+

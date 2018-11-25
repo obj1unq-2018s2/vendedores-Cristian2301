@@ -1,6 +1,7 @@
 import vendedores.*
 
 
+
 class Inseguro {
 	
 	method puedeSerAtendidoPor(vendedor){

@@ -37,3 +37,4 @@ class CentroDeDistribucion {
 		vendedoresConQueTrabaja.forEach {vendedor => vendedor.agregar(certificacion)}
 	}
 }
+
